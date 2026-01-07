@@ -14,6 +14,7 @@ A basic web vulnerability scanner built with Python for educational and ethical 
 - Python 3
 - Requests
 - BeautifulSoup4
+<img width="1280" height="800" alt="Screenshot_2026-01-07_13_14_38-redacted_dot_app" src="https://github.com/user-attachments/assets/971f78cd-a06f-4cda-a98a-9d8a717bbd85" />
 
 ## 📦 Installation
 
@@ -30,5 +31,3 @@ python scanner.py
 This tool is for educational purposes only.
 Use it only on systems you own or have permission to test
 
-
-<img width="1280" height="800" alt="Screenshot_2026-01-07_13_14_38-redacted_dot_app" src="https://github.com/user-attachments/assets/8fa4ad7d-fb0e-45a0-986c-b3630463c729" />
