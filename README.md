@@ -28,4 +28,7 @@ python scanner.py
 ⚠️ Disclaimer
 
 This tool is for educational purposes only.
-Use it only on systems you own or have permission to test.
+Use it only on systems you own or have permission to test
+
+
+<img width="1280" height="800" alt="Screenshot_2026-01-07_13_14_38-redacted_dot_app" src="https://github.com/user-attachments/assets/8fa4ad7d-fb0e-45a0-986c-b3630463c729" />
